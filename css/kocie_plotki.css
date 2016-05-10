@@ -1,0 +1,32 @@
+.milena {
+    color: darkviolet;
+    border: 1px;
+}
+
+.anita {
+    color: dodgerblue;
+    border: 1px;
+}
+
+.ania {
+    color: hotpink;
+    border: 1px;
+}
+
+.lidia {
+    color: yellow;
+    border: 1px;
+}
+
+body {
+    background-color: lightgreen;
+    font-size: 2rem;
+}
+
+.kocie-plotki {
+    background-color: skyblue;
+}
+
+.heart-red {
+    color: red;
+}
